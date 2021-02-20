@@ -1,1 +1,9 @@
 D:\Amol\Study Stuffs\MCA\Semester 4\Advanced Web Technology\Project\LibraryManagementSystem\Library\Library\bin\Debug\Library.exe.config
+D:\Amol\Study Stuffs\MCA\Semester 4\Advanced Web Technology\Project\LibraryManagementSystem\Library\Library\bin\Debug\Library.exe
+D:\Amol\Study Stuffs\MCA\Semester 4\Advanced Web Technology\Project\LibraryManagementSystem\Library\Library\bin\Debug\Library.pdb
+D:\Amol\Study Stuffs\MCA\Semester 4\Advanced Web Technology\Project\LibraryManagementSystem\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+D:\Amol\Study Stuffs\MCA\Semester 4\Advanced Web Technology\Project\LibraryManagementSystem\Library\Library\obj\Debug\Library.Form1.resources
+D:\Amol\Study Stuffs\MCA\Semester 4\Advanced Web Technology\Project\LibraryManagementSystem\Library\Library\obj\Debug\Library.Properties.Resources.resources
+D:\Amol\Study Stuffs\MCA\Semester 4\Advanced Web Technology\Project\LibraryManagementSystem\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+D:\Amol\Study Stuffs\MCA\Semester 4\Advanced Web Technology\Project\LibraryManagementSystem\Library\Library\obj\Debug\Library.exe
+D:\Amol\Study Stuffs\MCA\Semester 4\Advanced Web Technology\Project\LibraryManagementSystem\Library\Library\obj\Debug\Library.pdb
